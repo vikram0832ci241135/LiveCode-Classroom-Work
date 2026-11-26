@@ -3,7 +3,7 @@
 # Category: Live Lab Problems
 # Question: Problem 1 (Create a LIst , tuple , dict & set)
 # Score: Submitted (Evaluation Completed)
-# Synced: Wednesday, November 25, 2026 at 10:48 PM
+# Synced: Thursday, November 26, 2026 at 10:10 PM
 
 my_list = [10, 20, 30, 40]
 my_tuple = (10, 20, 30, 40)
