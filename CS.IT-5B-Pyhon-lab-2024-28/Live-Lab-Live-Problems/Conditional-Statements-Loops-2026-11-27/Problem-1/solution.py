@@ -3,7 +3,7 @@
 # Category: Live Lab Problems
 # Question: Problem 1 (Conditional Statement)
 # Score: Submitted (Evaluation Completed)
-# Synced: Friday, November 27, 2026 at 11:02 AM
+# Synced: Friday, November 27, 2026 at 11:17 AM
 
 age = int(input())
 
