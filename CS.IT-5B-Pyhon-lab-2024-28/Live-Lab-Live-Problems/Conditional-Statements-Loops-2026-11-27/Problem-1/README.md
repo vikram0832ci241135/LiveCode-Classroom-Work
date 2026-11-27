@@ -1,6 +1,6 @@
-# Problem 1: Conditional Statement
+# Problem 1: For loop
 
-> **Difficulty**: `Easy` | **Language**: `PYTHON` | **Score**: **Submitted** (Evaluation Completed)
+> **Difficulty**: `Easy` | **Language**: `PYTHON` | **Score**: **1/1** (4/4 Test Cases Passed)
 
 | Attribute | Details |
 | :--- | :--- |
@@ -8,14 +8,14 @@
 | **Category** | 🔴 Live Lab Problem |
 | **Session Date** | 2026-11-27 |
 | **Problem Type** | complete program |
-| **Score Achieved** | **Submitted** |
-| **Test Evaluation** | Evaluation Completed |
-| **Sync Timestamp** | Friday, November 27, 2026 at 11:17 AM |
+| **Score Achieved** | **1/1** |
+| **Test Evaluation** | 4/4 Test Cases Passed |
+| **Sync Timestamp** | Friday, November 27, 2026 at 11:32 AM |
 | **Verified Evaluation** | 🛡️ LiveCode Classroom Telemetry |
 
 ## 📋 Problem Statement
 
-Check whether a person is eligible to vote. A person must be 18 years old or above to be eligible.
+Create a for loop and print the table of 7
 
 ## 💡 Solution Implementation
 
