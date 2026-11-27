@@ -3,7 +3,7 @@
 # Category: Live Lab Problems
 # Question: Problem 2 (Conditional Statement)
 # Score: Submitted (Evaluation Completed)
-# Synced: Friday, November 27, 2026 at 11:16 AM
+# Synced: Friday, November 27, 2026 at 11:17 AM
 
 num = int(input())
 if num > 0:
